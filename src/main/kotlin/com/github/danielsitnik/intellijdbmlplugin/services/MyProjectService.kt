@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.danielsitnik.intellijdbmlplugin.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.danielsitnik.intellijdbmlplugin.MyBundle
 
 class MyProjectService(project: Project) {
 
